@@ -1,7 +1,7 @@
 # ORCA Software Limited
 
 <div align="center">
-  <img src="https://orca-software.web.app/logo.png" alt="ORCA Software Limited" width="200"/>
+  <img src="[https://orca-software.web.app/logo.png](https://orca-software.web.app/logos/logo_anim.gif)" alt="ORCA Software Limited" width="200"/>
   
   **Custom Software Development & IT Solutions**
   
